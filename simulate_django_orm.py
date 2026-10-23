@@ -143,3 +143,4 @@ while True:
         print("Invalid Choice")
 
 conn.close()
+print("Connection Close")
